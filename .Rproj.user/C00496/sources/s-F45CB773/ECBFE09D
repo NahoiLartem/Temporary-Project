@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552495849713.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ECBFE09D",
+    "lastKnownWriteTime" : 1552495898,
+    "last_content_update" : 1552495898022,
+    "path" : "~/Temporary Project/temp_file.R",
+    "project_path" : "temp_file.R",
+    "properties" : {
+        "cursorPosition" : "0,79",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
